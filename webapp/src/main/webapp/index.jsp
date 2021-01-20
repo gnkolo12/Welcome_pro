@@ -6,9 +6,10 @@
 
 <h1> Happy to see you taking a bold step to success  </h1>
 
-<h3> " Your goals are the roadmaps that guide you and show you what is possible for your life "
 
 		<h1> Welcome to magic Zagour world of DevSecOps !! </h1>
+
+<h3> " Your goals are the roadmaps that guide you and show you what is possible for your life "
 
 <h1> I can't imagine life without automation </h1>
 
